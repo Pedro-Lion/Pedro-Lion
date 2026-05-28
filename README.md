@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Skills](https://skillicons.dev/icons?i=ts,js,python,git)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=pedro-lion&show_icons=true&theme=tokyonight)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night)
