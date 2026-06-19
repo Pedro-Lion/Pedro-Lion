@@ -36,7 +36,7 @@ const pedro = {
 
 **Languages & Runtimes**
 
-![JavaScript](https://skillicons.dev/icons?i=js,nodejs,java,cs,python,php)
+![JavaScript](https://skillicons.dev/icons?i=js,nodejs,java,cs,python,php,angular,react)
 
 **Cloud & Infrastructure**
 
